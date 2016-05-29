@@ -1,2 +1,2 @@
 # Self Study
-Solutions to...
+Solutions to excercises 
