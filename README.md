@@ -1,1 +1,2 @@
-# self-study
+# Self Study
+Solutions to...
